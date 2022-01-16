@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Bender says "Neat!"](https://media.giphy.com/media/h1zJMhT5XOT927e0aw/source.gif)
 
 <!--
+![Bender says "Neat!"](https://media.giphy.com/media/h1zJMhT5XOT927e0aw/source.gif)
+
 **eins78/eins78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
