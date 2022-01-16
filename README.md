@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am working on [`Madek`](https://github.com/Madek/Madek) and [`Leihs`](https://github.com/leihs/leihs). Also check the [`audioplotter`](https://github.com/eins78/audioplotter)
 
 <!--
 ![Bender says "Neat!"](https://media.giphy.com/media/h1zJMhT5XOT927e0aw/source.gif)
