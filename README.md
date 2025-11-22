@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am working at [`quatico`](https://github.com/quatico-solutions). Also check the [`audioplotter`](https://github.com/eins78/audioplotter)
+I am working at [`quatico`](https://github.com/quatico-solutions). Also check the [`audioplotter`](https://github.com/eins78/audioplotter) and [`hello-world-web`](https://github.com/eins78/hello-world-web/hello-world-web).
 
 <!--
 ![Bender says "Neat!"](https://media.giphy.com/media/h1zJMhT5XOT927e0aw/source.gif)
